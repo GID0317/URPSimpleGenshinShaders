@@ -8,7 +8,7 @@ It is highly recommended to use [stalomeow/StarRailNPRShader](https://github.com
 
 本项目仅为概念验证
 
-建议使用 Stalo 的仿星铁渲染 [stalomeow/StarRailNPRShader](https://github.com/stalomeow/StarRailNPRShader)
+建议使用 Stalo 大佬的仿星铁渲染 [stalomeow/StarRailNPRShader](https://github.com/stalomeow/StarRailNPRShader)
 
 ---
 
